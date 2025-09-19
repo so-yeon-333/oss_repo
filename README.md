@@ -1,3 +1,4 @@
 # my first md file
 
-진도 너무 빨라요
+* Today is September 19th
+* I am learnig git and github
